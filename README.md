@@ -2,7 +2,7 @@
 
 This test is part of the selection process for a Web Developer position with ShowGizmo. 
 
-Ahead of the interview we would appreciate it if you can complete this test project – we've kept it simple so should not take more than 1-2 hours maximum.
+Ahead of the interview we would appreciate it if you can complete this test project – we've kept it simple so it should not take more than 1-2 hours maximum.
 
 ##Form Client
  
